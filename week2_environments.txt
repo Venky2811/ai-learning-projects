@@ -1,0 +1,24 @@
+# create a new virtual environment
+python -m venv myenv
+
+# activate it - windows
+myenv\Scripts\activate
+
+# deactivate it - when you're done
+deactivate
+
+# install a package
+python -m pip install package_name
+
+# install specific version
+python -m pip install langchain==1.2.0
+
+# see all installed packages in your env
+pip list
+
+# save all packages to a file - important for sharing projects
+pip freeze > requirements.txt
+
+# install all packages from requirements.txt
+# used when someone shares their project with you
+pip install -r requirements.txt

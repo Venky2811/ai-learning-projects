@@ -1,0 +1,46 @@
+[
+    {
+        "file": "the ai paradox.pdf",
+        "date": "2026-04-15 11:48",
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the AI paradox?"
+            },
+            {
+                "role": "assistant",
+                "content": "The AI paradox mentioned in the document is about whether Generative AI will enhance or destroy the business model of 99designs.com."
+            },
+            {
+                "role": "user",
+                "content": "Can you explain that in simpler terms?"
+            },
+            {
+                "role": "assistant",
+                "content": "The AI paradox is a question about whether the use of Generative AI will make the business model of 99designs.com better or worse."
+            }
+        ]
+    },
+    {
+        "file": "the ai paradox.pdf",
+        "date": "2026-04-15 11:48",
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is the AI paradox?"
+            },
+            {
+                "role": "assistant",
+                "content": "The AI paradox mentioned in the document is about whether Generative AI will enhance or destroy the business model of 99designs.com."
+            },
+            {
+                "role": "user",
+                "content": "Can you explain that in simpler terms?"
+            },
+            {
+                "role": "assistant",
+                "content": "The AI paradox is a question about whether the use of Generative AI will make the business model of 99designs.com better or worse."
+            }
+        ]
+    }
+]

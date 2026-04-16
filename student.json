@@ -1,0 +1,10 @@
+{
+    "name": "Venkat",
+    "age": "26",
+    "skills": [
+        "Python",
+        "LangChain",
+        "RAG"
+    ],
+    "is_learning": true
+}

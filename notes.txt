@@ -1,0 +1,4 @@
+This is my first AI Note
+I am learning Python for AI
+RAG stands for Retrieval Augmented Generation
+Agents can use tools to complete tasks

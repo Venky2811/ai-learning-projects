@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "What is RAG?"
+    },
+    {
+        "role": "assistant",
+        "content": "RAG is retrieval augmented generation"
+    },
+    {
+        "role": "user",
+        "content": "Give me an example"
+    },
+    {
+        "role": "assistant",
+        "content": "Sure! Here is an example..."
+    }
+]

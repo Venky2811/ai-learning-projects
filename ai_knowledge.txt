@@ -1,0 +1,23 @@
+RAG stands for Retrieval Augmented Generation. It is a technique that combines 
+information retrieval with text generation to produce accurate and up-to-date responses.
+
+RAG works in two main phases. The first phase is indexing where documents are loaded, 
+split into chunks, converted to embeddings and stored in a vector database. The second 
+phase is retrieval where a user query is converted to an embedding, similar chunks are 
+found and sent to the LLM along with the question.
+
+LangChain is a framework for building applications with large language models. It provides 
+tools for prompt management, memory, agents, and chains. LangChain supports many LLM 
+providers including OpenAI, Anthropic, and Hugging Face.
+
+Vector databases store data as high dimensional vectors which represent the semantic meaning 
+of text. ChromaDB is a popular open source vector database that runs locally. Pinecone is a 
+cloud based vector database used in production applications.
+
+AI Agents are systems that can reason, plan and take actions using tools. They follow the 
+ReAct pattern which stands for Reasoning and Acting. Agents can use tools like web search, 
+calculators and databases to complete complex tasks.
+
+Prompt engineering is the practice of designing inputs to AI models to get desired outputs. 
+Key techniques include few shot prompting, chain of thought prompting and system prompts. 
+Good prompts are clear, specific and provide relevant context.

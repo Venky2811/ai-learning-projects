@@ -1,0 +1,110 @@
+VENTURE CAPITAL (VC)
+
+Venture Capital is a form of private equity financing provided to early stage startups 
+and small businesses that show high growth potential. VC firms invest in companies that 
+are too risky for traditional banks but have potential for massive returns.
+
+VC firms raise money from limited partners such as pension funds, universities, and wealthy 
+individuals. They then invest this money into startups in exchange for equity ownership. 
+Typical VC investments range from $500,000 to $10 million in early stages.
+
+The VC investment stages are Pre-seed, Seed, Series A, Series B, Series C and beyond. 
+Pre-seed is the earliest stage where founders use personal savings or friends and family 
+money. Seed stage is typically $500K to $2M for product development. Series A is $2M to 
+$15M for scaling the business. Series B and beyond are for aggressive expansion.
+
+Famous VC firms include Sequoia Capital, Andreessen Horowitz, Accel Partners and Tiger 
+Global. Famous VC backed companies include Google, Facebook, Uber, Airbnb and Flipkart.
+
+VC investors make money when portfolio companies get acquired or go public through an IPO. 
+They typically expect 10x to 100x returns on successful investments because most startups 
+fail. Out of 10 investments a VC might make, 7 fail, 2 do okay and 1 becomes a huge success.
+
+HEDGE FUNDS
+
+Hedge funds are investment funds that pool capital from accredited investors and use 
+complex strategies to generate returns regardless of market conditions. Unlike mutual funds, 
+hedge funds can use leverage, short selling, derivatives and other sophisticated instruments.
+
+Hedge funds charge a 2 and 20 fee structure meaning 2 percent management fee on assets 
+and 20 percent performance fee on profits. This makes hedge fund managers extremely wealthy 
+if they perform well. Famous hedge funds include Bridgewater Associates, Renaissance 
+Technologies and Citadel.
+
+Hedge fund strategies include long short equity where they buy stocks they think will rise 
+and short stocks they think will fall. Global macro strategy bets on macroeconomic trends 
+like interest rates and currency movements. Quantitative strategies use algorithms and 
+mathematical models to find trading opportunities.
+
+Hedge funds are only open to accredited investors who have net worth over $1 million or 
+annual income over $200,000. Minimum investments are typically $1 million or more. Hedge 
+funds have less regulation than mutual funds but more than private equity.
+
+PRIVATE EQUITY (PE)
+
+Private Equity firms buy established companies, improve their operations and sell them 
+for a profit. Unlike VC which invests in startups, PE firms typically buy mature companies 
+that are underperforming or need restructuring.
+
+PE firms use a strategy called Leveraged Buyout or LBO where they use a combination of 
+their own capital and debt to buy companies. The acquired company's assets are used as 
+collateral for the debt. This amplifies returns but also increases risk.
+
+The PE investment process involves buying a company, improving operations over 3 to 7 years 
+and then exiting through a sale or IPO. PE firms add value by cutting costs, improving 
+management, expanding into new markets and making add-on acquisitions.
+
+Famous PE firms include Blackstone, KKR, Carlyle Group and Apollo Global Management. 
+PE firms typically target companies with stable cash flows, strong market position and 
+potential for operational improvement.
+
+PE professionals earn through management fees of 1.5 to 2 percent and carried interest 
+of 20 percent of profits. Senior partners at top PE firms can earn tens of millions 
+of dollars annually.
+
+INVESTMENT BANKING (IB)
+
+Investment Banking is a financial service that helps companies raise capital, execute 
+mergers and acquisitions and provides financial advisory services. Unlike VC, PE and 
+hedge funds, investment banks do not invest their own money in most cases.
+
+Investment banks have multiple divisions. The mergers and acquisitions division advises 
+companies on buying or selling other companies. The capital markets division helps 
+companies raise money through stock offerings and bond issuances. The sales and trading 
+division buys and sells securities on behalf of clients.
+
+Famous investment banks include Goldman Sachs, Morgan Stanley, JP Morgan, Deutsche Bank 
+and Barclays. These are called bulge bracket banks. Boutique investment banks like 
+Lazard and Evercore focus specifically on advisory services.
+
+Investment banking analysts work extremely long hours of 80 to 100 hours per week. 
+The compensation starts at $100,000 to $150,000 for analysts fresh out of college. 
+Senior bankers called Managing Directors can earn $1 million to $5 million annually.
+
+Investment banking is often a stepping stone to PE and hedge funds. Many PE professionals 
+start their careers as investment banking analysts to learn financial modelling and 
+deal structuring skills.
+
+KEY DIFFERENCES
+
+The main difference between VC and PE is the stage of companies they invest in. VC invests 
+in early stage startups while PE invests in mature established companies. VC takes minority 
+stakes while PE often takes majority or full ownership.
+
+The difference between hedge funds and PE is the investment horizon. Hedge funds trade 
+frequently and can be in and out of positions within days or weeks. PE holds investments 
+for 3 to 7 years before exiting.
+
+Investment banking differs from all three because it is a service business not an 
+investment business. IB earns fees for advising and facilitating transactions rather 
+than investing capital and earning returns.
+
+Risk levels differ significantly. VC is highest risk with potential for total loss but 
+also highest potential returns of 100x. PE is medium risk targeting 2x to 5x returns. 
+Hedge funds vary by strategy. IB has no investment risk but has reputational and 
+regulatory risk.
+
+Career paths often flow from IB to PE or hedge funds. Top MBA graduates join IB as 
+associates. After 2 to 3 years they move to PE or hedge funds for better compensation 
+and more interesting work. VC is often entered by former entrepreneurs or operators 
+rather than bankers.
